@@ -33,34 +33,34 @@ text{font-family:'JBM',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;font
 <g class="ln" style="animation-delay:0.25s">
 <text x="52" y="146" class="dim" style="font-size:13px">languages</text>
 <text x="156" y="146" class="cy" style="font-size:13px">›</text>
-<rect x="176.0" y="126" width="41.6" height="30" fill="#00d9ff" fill-opacity=".06" stroke="#00d9ff" stroke-opacity=".55"/>
+<rect x="176.0" y="126" width="104.0" height="30" fill="#00d9ff" fill-opacity=".06" stroke="#00d9ff" stroke-opacity=".55"/>
 <path d="M176.0 134V126H184.0" fill="none" stroke="#00d9ff" stroke-width="2"/>
 <text x="189.0" y="146" font-weight="700" class="cy" style="font-size:13px">TypeScript</text>
-<rect x="227.6" y="126" width="57.2" height="30" fill="#00d9ff" fill-opacity=".06" stroke="#00d9ff" stroke-opacity=".55"/>
-<path d="M227.6 134V126H235.6" fill="none" stroke="#00d9ff" stroke-width="2"/>
-<text x="240.6" y="146" font-weight="700" class="cy" style="font-size:13px">JavaScript</text>
-<rect x="294.8" y="126" width="104.0" height="30" fill="#00d9ff" fill-opacity=".06" stroke="#00d9ff" stroke-opacity=".55"/>
-<path d="M294.8 134V126H302.8" fill="none" stroke="#00d9ff" stroke-width="2"/>
-<text x="307.8" y="146" font-weight="700" class="cy" style="font-size:13px">Python</text>
-<rect x="408.8" y="126" width="104.0" height="30" fill="#00d9ff" fill-opacity=".06" stroke="#00d9ff" stroke-opacity=".55"/>
-<path d="M408.8 134V126H416.8" fill="none" stroke="#00d9ff" stroke-width="2"/>
-<text x="421.8" y="146" font-weight="700" class="cy" style="font-size:13px">Go</text>
-<rect x="522.8" y="126" width="72.8" height="30" fill="#00d9ff" fill-opacity=".06" stroke="#00d9ff" stroke-opacity=".55"/>
-<path d="M522.8 134V126H530.8" fill="none" stroke="#00d9ff" stroke-width="2"/>
-<text x="535.8" y="146" font-weight="700" class="cy" style="font-size:13px">Zig</text>
+<rect x="290.0" y="126" width="104.0" height="30" fill="#00d9ff" fill-opacity=".06" stroke="#00d9ff" stroke-opacity=".55"/>
+<path d="M290.0 134V126H298.0" fill="none" stroke="#00d9ff" stroke-width="2"/>
+<text x="303.0" y="146" font-weight="700" class="cy" style="font-size:13px">JavaScript</text>
+<rect x="404.0" y="126" width="73.0" height="30" fill="#00d9ff" fill-opacity=".06" stroke="#00d9ff" stroke-opacity=".55"/>
+<path d="M404.0 134V126H412.0" fill="none" stroke="#00d9ff" stroke-width="2"/>
+<text x="417.0" y="146" font-weight="700" class="cy" style="font-size:13px">Python</text>
+<rect x="487.0" y="126" width="48.0" height="30" fill="#00d9ff" fill-opacity=".06" stroke="#00d9ff" stroke-opacity=".55"/>
+<path d="M487.0 134V126H495.0" fill="none" stroke="#00d9ff" stroke-width="2"/>
+<text x="500.0" y="146" font-weight="700" class="cy" style="font-size:13px">Go</text>
+<rect x="545.0" y="126" width="50.0" height="30" fill="#00d9ff" fill-opacity=".06" stroke="#00d9ff" stroke-opacity=".55"/>
+<path d="M545.0 134V126H553.0" fill="none" stroke="#00d9ff" stroke-width="2"/>
+<text x="558.0" y="146" font-weight="700" class="cy" style="font-size:13px">Zig</text>
 </g>
 <g class="ln" style="animation-delay:0.35s">
 <text x="52" y="190" class="dim" style="font-size:13px">frameworks</text>
 <text x="156" y="190" class="cy" style="font-size:13px">›</text>
-<rect x="176.0" y="170" width="57.2" height="30" fill="#00d9ff" fill-opacity=".06" stroke="#00d9ff" stroke-opacity=".55"/>
+<rect x="176.0" y="170" width="81.0" height="30" fill="#00d9ff" fill-opacity=".06" stroke="#00d9ff" stroke-opacity=".55"/>
 <path d="M176.0 178V170H184.0" fill="none" stroke="#00d9ff" stroke-width="2"/>
 <text x="189.0" y="190" font-weight="700" class="cy" style="font-size:13px">Node.js</text>
-<rect x="243.2" y="170" width="80.6" height="30" fill="#00d9ff" fill-opacity=".06" stroke="#00d9ff" stroke-opacity=".55"/>
-<path d="M243.2 178V170H251.2" fill="none" stroke="#00d9ff" stroke-width="2"/>
-<text x="256.2" y="190" font-weight="700" class="cy" style="font-size:13px">FastAPI</text>
-<rect x="333.8" y="170" width="80.6" height="30" fill="#00d9ff" fill-opacity=".06" stroke="#00d9ff" stroke-opacity=".55"/>
-<path d="M333.8 178V170H341.8" fill="none" stroke="#00d9ff" stroke-width="2"/>
-<text x="346.8" y="190" font-weight="700" class="cy" style="font-size:13px">LangGraph</text>
+<rect x="267.0" y="170" width="81.0" height="30" fill="#00d9ff" fill-opacity=".06" stroke="#00d9ff" stroke-opacity=".55"/>
+<path d="M267.0 178V170H275.0" fill="none" stroke="#00d9ff" stroke-width="2"/>
+<text x="280.0" y="190" font-weight="700" class="cy" style="font-size:13px">FastAPI</text>
+<rect x="358.0" y="170" width="97.0" height="30" fill="#00d9ff" fill-opacity=".06" stroke="#00d9ff" stroke-opacity=".55"/>
+<path d="M358.0 178V170H366.0" fill="none" stroke="#00d9ff" stroke-width="2"/>
+<text x="371.0" y="190" font-weight="700" class="cy" style="font-size:13px">LangGraph</text>
 </g>
 <g class="ln" style="animation-delay:0.45s">
 <text x="52" y="234" class="dim" style="font-size:13px">data</text>
@@ -68,44 +68,44 @@ text{font-family:'JBM',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;font
 <rect x="176.0" y="214" width="104.0" height="30" fill="#00d9ff" fill-opacity=".06" stroke="#00d9ff" stroke-opacity=".55"/>
 <path d="M176.0 222V214H184.0" fill="none" stroke="#00d9ff" stroke-width="2"/>
 <text x="189.0" y="234" font-weight="700" class="cy" style="font-size:13px">PostgreSQL</text>
-<rect x="290.0" y="214" width="72.8" height="30" fill="#00d9ff" fill-opacity=".06" stroke="#00d9ff" stroke-opacity=".55"/>
+<rect x="290.0" y="214" width="65.0" height="30" fill="#00d9ff" fill-opacity=".06" stroke="#00d9ff" stroke-opacity=".55"/>
 <path d="M290.0 222V214H298.0" fill="none" stroke="#00d9ff" stroke-width="2"/>
 <text x="303.0" y="234" font-weight="700" class="cy" style="font-size:13px">Redis</text>
-<rect x="372.8" y="214" width="65.0" height="30" fill="#00d9ff" fill-opacity=".06" stroke="#00d9ff" stroke-opacity=".55"/>
-<path d="M372.8 222V214H380.8" fill="none" stroke="#00d9ff" stroke-width="2"/>
-<text x="385.8" y="234" font-weight="700" class="cy" style="font-size:13px">MongoDB</text>
-<rect x="447.8" y="214" width="65.0" height="30" fill="#00d9ff" fill-opacity=".06" stroke="#00d9ff" stroke-opacity=".55"/>
-<path d="M447.8 222V214H455.8" fill="none" stroke="#00d9ff" stroke-width="2"/>
-<text x="460.8" y="234" font-weight="700" class="cy" style="font-size:13px">Cozo</text>
-<rect x="522.8" y="214" width="80.6" height="30" fill="#00d9ff" fill-opacity=".06" stroke="#00d9ff" stroke-opacity=".55"/>
-<path d="M522.8 222V214H530.8" fill="none" stroke="#00d9ff" stroke-width="2"/>
-<text x="535.8" y="234" font-weight="700" class="cy" style="font-size:13px">JSONB</text>
+<rect x="365.0" y="214" width="81.0" height="30" fill="#00d9ff" fill-opacity=".06" stroke="#00d9ff" stroke-opacity=".55"/>
+<path d="M365.0 222V214H373.0" fill="none" stroke="#00d9ff" stroke-width="2"/>
+<text x="378.0" y="234" font-weight="700" class="cy" style="font-size:13px">MongoDB</text>
+<rect x="456.0" y="214" width="58.0" height="30" fill="#00d9ff" fill-opacity=".06" stroke="#00d9ff" stroke-opacity=".55"/>
+<path d="M456.0 222V214H464.0" fill="none" stroke="#00d9ff" stroke-width="2"/>
+<text x="469.0" y="234" font-weight="700" class="cy" style="font-size:13px">Cozo</text>
+<rect x="524.0" y="214" width="65.0" height="30" fill="#00d9ff" fill-opacity=".06" stroke="#00d9ff" stroke-opacity=".55"/>
+<path d="M524.0 222V214H532.0" fill="none" stroke="#00d9ff" stroke-width="2"/>
+<text x="537.0" y="234" font-weight="700" class="cy" style="font-size:13px">JSONB</text>
 </g>
 <g class="ln" style="animation-delay:0.55s">
 <text x="52" y="278" class="dim" style="font-size:13px">security</text>
 <text x="156" y="278" class="cy" style="font-size:13px">›</text>
-<rect x="176.0" y="258" width="49.4" height="30" fill="#00d9ff" fill-opacity=".06" stroke="#00d9ff" stroke-opacity=".55"/>
+<rect x="176.0" y="258" width="89.0" height="30" fill="#00d9ff" fill-opacity=".06" stroke="#00d9ff" stroke-opacity=".55"/>
 <path d="M176.0 266V258H184.0" fill="none" stroke="#00d9ff" stroke-width="2"/>
 <text x="189.0" y="278" font-weight="700" class="cy" style="font-size:13px">Passkeys</text>
-<rect x="235.4" y="258" width="65.0" height="30" fill="#00d9ff" fill-opacity=".06" stroke="#00d9ff" stroke-opacity=".55"/>
-<path d="M235.4 266V258H243.4" fill="none" stroke="#00d9ff" stroke-width="2"/>
-<text x="248.4" y="278" font-weight="700" class="cy" style="font-size:13px">WebAuthn</text>
+<rect x="275.0" y="258" width="89.0" height="30" fill="#00d9ff" fill-opacity=".06" stroke="#00d9ff" stroke-opacity=".55"/>
+<path d="M275.0 266V258H283.0" fill="none" stroke="#00d9ff" stroke-width="2"/>
+<text x="288.0" y="278" font-weight="700" class="cy" style="font-size:13px">WebAuthn</text>
 </g>
 <g class="ln" style="animation-delay:0.65s">
 <text x="52" y="322" class="dim" style="font-size:13px">architecture</text>
 <text x="156" y="322" class="cy" style="font-size:13px">›</text>
-<rect x="176.0" y="302" width="65.0" height="30" fill="#00d9ff" fill-opacity=".06" stroke="#00d9ff" stroke-opacity=".55"/>
+<rect x="176.0" y="302" width="151.0" height="30" fill="#00d9ff" fill-opacity=".06" stroke="#00d9ff" stroke-opacity=".55"/>
 <path d="M176.0 310V302H184.0" fill="none" stroke="#00d9ff" stroke-width="2"/>
 <text x="189.0" y="322" font-weight="700" class="cy" style="font-size:13px">FullAgenticStack</text>
-<rect x="251.0" y="302" width="80.6" height="30" fill="#00d9ff" fill-opacity=".06" stroke="#00d9ff" stroke-opacity=".55"/>
-<path d="M251.0 310V302H259.0" fill="none" stroke="#00d9ff" stroke-width="2"/>
-<text x="264.0" y="322" font-weight="700" class="cy" style="font-size:13px">AllasCode</text>
-<rect x="341.6" y="302" width="88.4" height="30" fill="#00d9ff" fill-opacity=".06" stroke="#00d9ff" stroke-opacity=".55"/>
-<path d="M341.6 310V302H349.6" fill="none" stroke="#00d9ff" stroke-width="2"/>
-<text x="354.6" y="322" font-weight="700" class="cy" style="font-size:13px">DDD</text>
-<rect x="440.0" y="302" width="119.6" height="30" fill="#00d9ff" fill-opacity=".06" stroke="#00d9ff" stroke-opacity=".55"/>
-<path d="M440.0 310V302H448.0" fill="none" stroke="#00d9ff" stroke-width="2"/>
-<text x="453.0" y="322" font-weight="700" class="cy" style="font-size:13px">Event-Driven</text>
+<rect x="337.0" y="302" width="97.0" height="30" fill="#00d9ff" fill-opacity=".06" stroke="#00d9ff" stroke-opacity=".55"/>
+<path d="M337.0 310V302H345.0" fill="none" stroke="#00d9ff" stroke-width="2"/>
+<text x="350.0" y="322" font-weight="700" class="cy" style="font-size:13px">AllasCode</text>
+<rect x="444.0" y="302" width="50.0" height="30" fill="#00d9ff" fill-opacity=".06" stroke="#00d9ff" stroke-opacity=".55"/>
+<path d="M444.0 310V302H452.0" fill="none" stroke="#00d9ff" stroke-width="2"/>
+<text x="457.0" y="322" font-weight="700" class="cy" style="font-size:13px">DDD</text>
+<rect x="504.0" y="302" width="120.0" height="30" fill="#00d9ff" fill-opacity=".06" stroke="#00d9ff" stroke-opacity=".55"/>
+<path d="M504.0 310V302H512.0" fill="none" stroke="#00d9ff" stroke-width="2"/>
+<text x="517.0" y="322" font-weight="700" class="cy" style="font-size:13px">Event-Driven</text>
 </g>
 <path d="M16 0V360M864 0V360" fill="none" stroke="#00d9ff" stroke-width="1.2"/>
 <g fill="none" stroke="#00d9ff" stroke-width="2"></g>
