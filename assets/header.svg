@@ -40,7 +40,7 @@ text{font-family:'JBM',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;font
 <circle class="dot" cx="564.4" cy="34" r="4" fill="#3fb950" filter="url(#sglow)"/>
 <g clip-path="url(#typeclip)"><text x="52" y="102" class="dim"><tspan class="gr">$</tspan> whoami</text></g>
 <g class="name" font-weight="800" letter-spacing="2" style="font-size:56px">
-<text x="52" y="172" fill="#00d9ff" opacity=".55" filter="url(#tglow)" style="font-size:56px">SUISSAI</text>
+<text x="52" y="172" fill="#00d9ff" opacity=".55" filter="url(#tglow)" style="font-size:56px" >SUISSA</text>
 <g class="gm"><text x="55" y="172" fill="#ff2bd6" opacity=".75" style="font-size:56px">SUISSA</text></g>
 <g class="gc"><text x="49" y="172" fill="#00d9ff" opacity=".85" style="font-size:56px">SUISSA</text></g>
 <text x="52" y="172" fill="#f0fbff" style="font-size:56px">SUISSA</text>
@@ -48,10 +48,11 @@ text{font-family:'JBM',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;font
 <g class="ln" style="animation-delay:2.00s"><text class="fg" x="52" y="218"><tspan class="cy">&gt;&gt;</tspan> outcome engineer · AI multi-agents architect</text></g>
 <g class="ln" style="animation-delay:2.25s"><text class="fg" x="52" y="242"><tspan class="cy">&gt;&gt;</tspan> FullAgenticStack · AllasCode · AI agents · conversational systems</text></g>
 <g class="ln" style="animation-delay:2.50s"><text class="fg" x="52" y="266"><tspan class="cy">&gt;&gt;</tspan> building open-source tools under <tspan class="cy" font-weight="700">PURECORE</tspan></text></g>
-<g class="ln" style="animation-delay:2.8s">
-<text x="52" y="304" class="gr">$</text>
-<rect class="cursor" x="70" y="291" width="10" height="17" fill="#00d9ff"/>
-<rect class="cursor" x="70" y="291" width="10" height="17" fill="#00d9ff" filter="url(#sglow)"/>
+<g class="ln" style="animation-delay:2.70s"><text class="fg" x="52" y="290"><tspan class="cy">&gt;&gt;</tspan> researcher exploring new ways of programming</text></g>
+<g class="ln" style="animation-delay:2.95s">
+<text x="52" y="328" class="gr">$</text>
+<rect class="cursor" x="70" y="315" width="10" height="17" fill="#00d9ff"/>
+<rect class="cursor" x="70" y="315" width="10" height="17" fill="#00d9ff" filter="url(#sglow)"/>
 </g>
 <rect x="16" y="51" width="848" height="309" fill="url(#scan)"/>
 <path d="M16 16V360M864 16V360M16 16H864" fill="none" stroke="#00d9ff" stroke-width="1.2"/>
