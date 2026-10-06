@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="176" height="80" viewBox="0 0 176 80" role="img" aria-labelledby="t d">
 <title id="t">GitHub</title><desc id="d">GitHub: https://github.com/suissa</desc>
 <style>text{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace}.dim{fill:#8b949e}.cy{fill:#00d9ff}.wh{fill:#f0fbff}@keyframes fadein{from{opacity:0;transform:translateX(-6px)}to{opacity:1;transform:none}}.ln{animation:fadein .35s ease-out both}@media(prefers-reduced-motion:reduce){*{animation:none!important}}</style>
-<defs><pattern id="grid" x="16" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#00d9ff" stroke-opacity=".06"/></pattern></defs>
+<defs><pattern id="grid" x="16" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#00d9ff" stroke-opacity=".06"/></pattern><filter id="glow" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="6"/></filter></defs>
 <path d="M16 -40V120" fill="none" stroke="#00d9ff" stroke-width="3" opacity=".55" filter="url(#glow)"/>
 <rect x="0" y="0" width="176" height="80" fill="#03040a"/><rect x="16" y="0" width="160" height="80" fill="#03040a"/><rect x="16" y="0" width="160" height="80" fill="url(#grid)"/>
 <g class="ln" style="animation-delay:.25s"><path d="M52 12H164L176 24V68H52Z" fill="#00d9ff" fill-opacity=".05"/><path d="M52 12H164L176 24V68H52Z" fill="none" stroke="#00d9ff" stroke-opacity=".55"/><path d="M164 12L176 24" stroke="#00d9ff" stroke-width="2"/>
