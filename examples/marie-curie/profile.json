@@ -1,0 +1,179 @@
+{
+  "profile": {
+    "name": "Marie Curie",
+    "display_name": "Marie Curie",
+    "handle": "@mariecurie",
+    "title": "Physicist & Chemist · Pioneer of Radioactivity",
+    "subtitle": "Two-time Nobel laureate · First woman to win a Nobel Prize · Sorbonne professor",
+    "bio": "Born Maria Skłodowska in Warsaw. Her research led to the discovery of polonium and radium and transformed the scientific understanding of radioactivity.",
+    "born": "1867-11-07",
+    "died": "1934-07-04",
+    "location": "Warsaw, Russian Empire → Paris, France"
+  },
+  "theme": {
+    "accent": "#FFD700",
+    "accent_bright": "#FFF2A6",
+    "background": "#03040A",
+    "foreground": "#FFFBEA",
+    "muted": "#B8AD80",
+    "grid_opacity": 0.065
+  },
+  "links": [
+    {
+      "id": "nobel-physics",
+      "label": "NOBEL 1903",
+      "handle": "Physics",
+      "glyph": "N",
+      "url": "https://www.nobelprize.org/prizes/physics/1903/marie-curie/",
+      "description": "Nobel Prize in Physics, 1903."
+    },
+    {
+      "id": "nobel-chemistry",
+      "label": "NOBEL 1911",
+      "handle": "Chemistry",
+      "glyph": "N",
+      "url": "https://www.nobelprize.org/prizes/chemistry/1911/marie-curie/",
+      "description": "Nobel Prize in Chemistry, 1911."
+    },
+    {
+      "id": "polonium",
+      "label": "POLONIUM",
+      "handle": "Po · element 84",
+      "glyph": "Po",
+      "url": "https://www.nobelprize.org/prizes/chemistry/1911/marie-curie/biographical/",
+      "description": "Polonium was discovered by Marie and Pierre Curie."
+    },
+    {
+      "id": "radium",
+      "label": "RADIUM",
+      "handle": "Ra · element 88",
+      "glyph": "Ra",
+      "url": "https://www.nobelprize.org/prizes/chemistry/1911/marie-curie/biographical/",
+      "description": "Radium was discovered by Marie and Pierre Curie."
+    },
+    {
+      "id": "sorbonne",
+      "label": "SORBONNE",
+      "handle": "Paris · 1891–",
+      "glyph": "S",
+      "url": "https://www.nobelprize.org/prizes/physics/1903/marie-curie/biographical/",
+      "description": "Marie studied at the Sorbonne and later became its first woman professor."
+    },
+    {
+      "id": "radioactivity",
+      "label": "RADIOACTIVITY",
+      "handle": "scientific legacy",
+      "glyph": "R",
+      "url": "https://www.nobelprize.org/stories/women-who-changed-science/marie-curie",
+      "description": "Marie Curie pioneered the scientific study of radioactivity."
+    },
+    {
+      "id": "wwi-xray",
+      "label": "X-RAY UNITS",
+      "handle": "World War I",
+      "glyph": "X",
+      "url": "https://www.nobelprize.org/prizes/physics/1903/marie-curie/facts/",
+      "description": "She organized mobile X-ray radiography units during World War I."
+    },
+    {
+      "id": "pantheon",
+      "label": "PANTHÉON",
+      "handle": "Paris · 1995",
+      "glyph": "P",
+      "url": "https://www.nobelprize.org/prizes/themes/marie-and-pierre-curie-and-the-discovery-of-polonium-and-radium/",
+      "description": "Marie Curie was interred in the Panthéon on her own merit in 1995."
+    }
+  ],
+  "stats": [
+    {
+      "label": "NOBEL PRIZES",
+      "value": "2",
+      "detail": "Physics 1903 · Chemistry 1911"
+    },
+    {
+      "label": "ELEMENTS DISCOVERED",
+      "value": "2",
+      "detail": "Polonium · Radium"
+    },
+    {
+      "label": "FIRST WOMAN",
+      "value": "1903",
+      "detail": "First woman awarded a Nobel Prize"
+    },
+    {
+      "label": "SORBONNE",
+      "value": "1906",
+      "detail": "First woman to hold its physics professorship"
+    },
+    {
+      "label": "DOCTOR OF SCIENCE",
+      "value": "1903",
+      "detail": "Doctorate in physical sciences"
+    },
+    {
+      "label": "WORLD WAR I",
+      "value": "1914–18",
+      "detail": "Mobile X-ray radiography units"
+    },
+    {
+      "label": "BORN",
+      "value": "1867",
+      "detail": "Warsaw · 7 November"
+    },
+    {
+      "label": "DIED",
+      "value": "1934",
+      "detail": "Sallanches · 4 July"
+    }
+  ],
+  "stack": {
+    "categories": [
+      {
+        "name": "PHYSICS",
+        "items": [
+          "radioactivity",
+          "radiation phenomena",
+          "measurement"
+        ]
+      },
+      {
+        "name": "CHEMISTRY",
+        "items": [
+          "polonium",
+          "radium",
+          "radium isolation"
+        ]
+      },
+      {
+        "name": "RESEARCH",
+        "items": [
+          "systematic experiments",
+          "radioactive residues",
+          "atomic phenomena"
+        ]
+      },
+      {
+        "name": "MEDICINE",
+        "items": [
+          "radiography",
+          "therapeutic use of radium",
+          "mobile X-ray units"
+        ]
+      },
+      {
+        "name": "LEGACY",
+        "items": [
+          "Sorbonne",
+          "Curie Laboratory",
+          "Panthéon"
+        ]
+      }
+    ]
+  },
+  "footer": "CONNECTION CLOSED · SCIENCE REMAINS",
+  "sources": [
+    "https://www.nobelprize.org/prizes/physics/1903/marie-curie/biographical/",
+    "https://www.nobelprize.org/prizes/chemistry/1911/marie-curie/biographical/",
+    "https://www.nobelprize.org/stories/women-who-changed-science/marie-curie"
+  ]
+}
