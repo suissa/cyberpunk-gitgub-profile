@@ -1,17 +1,8 @@
 <p align="center">
 <img src="./assets/header.svg" width="100%" align="top" alt="suissa — Outcome Engineer and AI Multi-agents Architect. Full Agentic Stack Developer focused on Outcome as a Software, conversational automation, passwordless identity, semantic architectures and open-source software.">
 <img src="./assets/links.svg" width="100%" align="top" alt="Links">
-<table width="100%"><tr>
-<td width="25%" align="center"><a href="https://github.com/suissa"><img src="./assets/links/github.svg" width="100%" align="top" alt="GitHub"></a></td>
-<td width="25%" align="center"><a href="https://wa.me/5515991957645?text=vim%20pelo%20seu%20github"><img src="./assets/links/whatsapp.svg" width="100%" align="top" alt="WhatsApp"></a></td>
-<td width="25%" align="center"><a href="https://t.me/osuissa"><img src="./assets/links/telegram.svg" width="100%" align="top" alt="Telegram"></a></td>
-<td width="25%" align="center"><a href="mailto:suissaidev@gmail.com"><img src="./assets/links/gmail.svg" width="100%" align="top" alt="Gmail"></a></td>
-</tr><tr>
-<td width="25%" align="center"><a href="https://dev.to/fullagenticstack"><img src="./assets/links/dev.svg" width="100%" align="top" alt="DEV Community"></a></td>
-<td width="25%" align="center"><a href="https://www.linkedin.com/in/suissa/"><img src="./assets/links/linkedin.svg" width="100%" align="top" alt="LinkedIn"></a></td>
-<td width="25%" align="center"><a href="https://www.reddit.com/user/fullagenticstack/"><img src="./assets/links/reddit.svg" width="100%" align="top" alt="Reddit"></a></td>
-<td width="25%" align="center"><a href="https://www.youtube.com/@AllasCode"><img src="./assets/links/youtube.svg" width="100%" align="top" alt="YouTube"></a></td>
-</tr></table>
+<a href="https://github.com/suissa"><img src="./assets/links/github.svg" width="25%" align="top" alt="GitHub"></a><a href="https://wa.me/5515991957645?text=vim%20pelo%20seu%20github"><img src="./assets/links/whatsapp.svg" width="25%" align="top" alt="WhatsApp"></a><a href="https://t.me/osuissa"><img src="./assets/links/telegram.svg" width="25%" align="top" alt="Telegram"></a><a href="mailto:suissaidev@gmail.com"><img src="./assets/links/gmail.svg" width="25%" align="top" alt="Gmail"></a><br>
+<a href="https://dev.to/fullagenticstack"><img src="./assets/links/dev.svg" width="25%" align="top" alt="DEV Community"></a><a href="https://www.linkedin.com/in/suissa/"><img src="./assets/links/linkedin.svg" width="25%" align="top" alt="LinkedIn"></a><a href="https://www.reddit.com/user/fullagenticstack/"><img src="./assets/links/reddit.svg" width="25%" align="top" alt="Reddit"></a><a href="https://www.youtube.com/@AllasCode"><img src="./assets/links/youtube.svg" width="25%" align="top" alt="YouTube"></a>
 <img src="./assets/stats.svg" width="100%" align="top" alt="GitHub and developer statistics for suissa.">
 <img src="./assets/stack.svg" width="100%" align="top" alt="Tech stack and specialties. Languages: TypeScript, JavaScript, Python, C#, Java, Zig. Frameworks and runtimes: Node.js, FastAPI, .NET, React, Next.js, Elm, Three.js, Tailwind CSS. Databases and data: PostgreSQL, Redis, MongoDB, RAG, agentic data and projections. AI and agents: AI Agents, Agentic AI, MCP, LangGraph, LangChain, CrewAI, Google ADK, OpenRouter, multimodal AI, conversational AI. Architecture: FullAgenticStack, AllasCode, DDD, Event-Driven Architecture, semantic-first architecture, Intent-Driven Development, Agent-Actor-Action, A2UI, polyglot Actions, agentic runtimes, observability, self-healing and supervision. Identity and security: passwordless identity, Passkeys, WebAuthn, DPoP, mTLS, post-quantum readiness, eXtreme Zero Trust, human-agent authority. Infrastructure and protocols: WebSocket, NATS, RabbitMQ, WASM, APIs, OAuth, AWS, Azure. Automation: MCP integrations, developer automation, chatbots, dashboards and conversational interfaces.">
 <img src="./assets/footer.svg" width="100%" align="top" alt="Connection closed.">
