@@ -15,11 +15,12 @@ text{font-family:'JBM',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;font
 </style>
 <rect x="0" y="0" width="176" height="80" fill="#03040a"/>
 <defs>
-<pattern id="grid" x="0" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#00d9ff" stroke-opacity=".06"/></pattern>
+<pattern id="grid" x="16" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#00d9ff" stroke-opacity=".06"/></pattern>
 <filter id="glow" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="6"/></filter>
 <filter id="g" x="-20%" y="-60%" width="140%" height="220%"><feGaussianBlur stdDeviation="4"/></filter>
 </defs>
 <path d="M16 -40V120" fill="none" stroke="#00d9ff" stroke-width="3" opacity=".55" filter="url(#glow)"/>
+
 <rect x="16" y="0" width="160" height="80" fill="#03040a"/>
 <rect x="16" y="0" width="160" height="80" fill="url(#grid)"/>
 <g class="ln" style="animation-delay:0.25s">
@@ -31,5 +32,6 @@ text{font-family:'JBM',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;font
 <text x="90" y="37" font-weight="700" class="cy" style="font-size:13px">DEV</text>
 <text x="64" y="58" class="dim" style="font-size:10px">@fullagenticstack</text>
 </g>
+
 <path d="M16 0V80" fill="none" stroke="#00d9ff" stroke-width="1.2"/>
 </svg>
